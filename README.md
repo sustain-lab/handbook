@@ -2,12 +2,23 @@
 
 Rules and protocols for the [SUSTAIN Laboratory](https://sustain.rsmas.miami.edu).
 
+* [Safety](#safety)
+* [Operations](#operations)
+* [Tools](#tools)
+* [Instruments](#instruments)
+* [Getting help](#getting-help)
+
 ## Safety
 
+* Clean up after yourself
 * Return tools after use
-* Don't leave power cables on the ground floor, especially if connected and powered
-* Don't leave front door propped open
+* Don't leave power cables laying on the ground floor, especially if connected and powered
+* Secure any cables or wires:
+  - Use cable guides if possible
+  - If the cable crosses a walkway, secure it with zipties and mark it with tape
+* In areas that are busy with cables and/or pressure tubes such as top of SUSTAIN, watch your step
 * Check that all tank panels are closed and secured before running any wind generator
+* Don't leave front door propped open
 
 ## Operations
 
@@ -37,6 +48,8 @@ Rules and protocols for the [SUSTAIN Laboratory](https://sustain.rsmas.miami.edu
 
 ## Getting help
 
-* Brian Haus (PI), [bhaus@miami.edu](mailto:bhaus@miami.edu)
+* Brian Haus (Professor & Lab lead), [bhaus@miami.edu](mailto:bhaus@miami.edu)
+* Cedric Guigand (Senior Research Associate) [cguigand@rsmas.miami.edu](mailto:cguigand@rsmas.miami.edu)
+* Michael Rebozo (Marine Technical Specialist) [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
 * Milan Curcic (Assistant Scientist), [mcurcic@miami.edu](mailto:mcurcic@miami.edu)
-* Michael Rebozo (Technician) [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
+* Neil Williams (Associate Scientist) [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
