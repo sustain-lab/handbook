@@ -49,7 +49,7 @@ Rules and protocols for the [SUSTAIN Laboratory](https://sustain.rsmas.miami.edu
 ## Getting help
 
 * Brian Haus (Professor & Lab lead), [bhaus@miami.edu](mailto:bhaus@miami.edu)
-* Neil Williams (Associate Scientist), [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
+* Neil Williams (Scientist), [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
 * Michael Rebozo (Marine Technical Specialist), [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
 * Cedric Guigand (Senior Research Associate), [cguigand@rsmas.miami.edu](mailto:cguigand@rsmas.miami.edu)
 * Milan Curcic (Assistant Scientist), [mcurcic@miami.edu](mailto:mcurcic@miami.edu)
