@@ -30,7 +30,7 @@ Rules and protocols for the [SUSTAIN Laboratory](https://sustain.rsmas.miami.edu
   - Date and time when the fan will run
   - Fresh or seawater
   - Is spray expected or not
-* Further, if you anticipate generating seawater spray, use the orange cones to divert traffic into the garage and away from the back of the SUSTAIN outlet
+* Further, if you anticipate generating seawater spray, use the orange cones (located at the bottom floor of the staircase in the rear of SUSTAIN) to divert traffic into the garage and away from the back of the SUSTAIN outlet
 
 #### Running the wave generator
 
@@ -49,7 +49,9 @@ Rules and protocols for the [SUSTAIN Laboratory](https://sustain.rsmas.miami.edu
 ## Getting help
 
 * Brian Haus (Professor & Lab lead), [bhaus@miami.edu](mailto:bhaus@miami.edu)
-* Cedric Guigand (Senior Research Associate) [cguigand@rsmas.miami.edu](mailto:cguigand@rsmas.miami.edu)
-* Michael Rebozo (Marine Technical Specialist) [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
+* Neil Williams (Associate Scientist), [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
+* Michael Rebozo (Marine Technical Specialist), [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
+* Cedric Guigand (Senior Research Associate), [cguigand@rsmas.miami.edu](mailto:cguigand@rsmas.miami.edu)
 * Milan Curcic (Assistant Scientist), [mcurcic@miami.edu](mailto:mcurcic@miami.edu)
-* Neil Williams (Associate Scientist) [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
+* Sanchit Mehta (Postdoctoral Associate), [sanchit.mehta@rsmas.miami.edu](mailto:sanchit.mehta@rsmas.miami.edu)
+* Andrew Smith (PhD Student), [andrew.smith@rsmas.miami.edu](mailto:andrew.smith@rsmas.miami.edu)
