@@ -25,10 +25,12 @@ outline the safety procedures related to COVID-19:
 * [SUSTAIN Standard Operating Procedure for Research Ramp-up](docs/sustain-sop-20200522.pdf)
 
 Ensure to follow these procedures while on campus.
+Further, as COVID-19 regulations change often, stay up-to-date and follow the
+procedures set by the [University of Miami](https://coronavirus.miami.edu/).
 
 ### General
 
-* Watch your step. Floors can be wet and/or have hardware or tools on them.
+* Watch your step. Floors can be wet and/or have hardware, tools, or cables on them.
 * Ascend and descend the catwalk stairs always facing forward and with both hands on the rails.
 * Clean up after yourself.
 * Return tools after use.
@@ -52,6 +54,20 @@ and share it with the group at
 ### SUSTAIN wind-wave tank
 
 #### Running the wind generator
+
+The SUSTAIN wind generator is controlled by the control panel on the
+northeast side of the first floor of SUSTAIN, and by the computer on the
+second-floor catwalk.
+Please [contact us](#getting-help) if you need to run the wind generator for the
+first time.
+
+#### Notifying the community of SUSTAIN operations
+
+The SUSTAIN wind generator creates loud noise and ejects spray through the
+outlet when run at high speed.
+This can negatively impact our neighbors at RSMAS and/or Seaquarium next door.
+To ensure that we don't disrupt others' work, we use the following procedure to
+notify them of SUSTAIN operations:
 
 * If the wind generator is to be run at fan speeds higher than 15 Hz,
 send an email to [sustainops@listserv.miami.edu](mailto:sustainops@listserv.miami.edu)
@@ -80,14 +96,30 @@ To send and email to this list, your email needs to be on the list of allowed se
 Please email Darren O'Neal at [doneal@rsmas.miami.edu](mailto:doneal@rsmas.miami.edu)
 and CC Brian Haus or Milan Curcic to request getting on the SUSTAIN Operations email list.
 
+#### Safety
+
+Before running the SUSTAIN wind generator, please ensure that
+
+* All hatches are closed and locked with bolts
+* The door at the inlet is closed and locked
+* Any instruments inside the tank are secured to the walls or the beach
+* No tools are left in the tank
+* There are no people in the tank
+
 #### Running the wave generator
 
-TODO
+The SUSTAIN wave generator is operated from the computer on the second-floor catwalk.
+Please [contact us](#getting-help) if you need to run the wave generator for the
+first time.
 
 #### Draining the water from the tank
 
-* The water should be drained using the appropriate valve
-depending on whether its fresh water or seawater in the tank
+* The valves are located on both ends (inlet and outlet) of SUSTAIN, on the
+  first floor (under the tank).
+* The water should be drained using the appropriate valve depending on whether
+  it's fresh water or seawater in the tank.
+* When opening a valve, ensure that the water outflow is slow enough to not
+  overflow the first-floor drains.
 
 ### ASIST wind-wave tank
 
@@ -107,19 +139,34 @@ TODO
 
 ## Tools
 
-TODO
+You can find tools at three locations in the lab:
+
+1. Tool rack in the main room on the first floor (next to the ASIST tank)
+2. Tool bench in the pump room on the first floor
+3. Tool rack and bench on top of the SUSTAIN tank (third floor)
+
+Most tools are redundant between locations 1 and 3.
+Please use the tools from a location that is nearest to where you're working at.
+For example, if you're working on ASIST, use the tools from locations 1 or 2.
+If you're working on top of SUSTAIN, use the tools from location 3.
+If you need to use tools from multiple locations, please return each tool to
+its home after use.
 
 ## Instruments
 
-TODO
+Please [contact us](#getting-help) if you need help using any specific
+instrument.
 
 ## Getting help
 
+Please contact lab staff if you need any help in SUSTAIN.
+
 * Brian Haus (Professor & Lab lead), [bhaus@miami.edu](mailto:bhaus@miami.edu)
 * Neil Williams (Scientist), [nwilliams@cstars.miami.edu](mailto:nwilliams@cstars.miami.edu)
-* Michael Rebozo (Marine Technical Specialist), [mrebozo@rsmas.miami.edu](mailto:mrebozo@rsmas.miami.edu)
+* Jacob Rice (Marine Technical Specialist), [jbr107@miami.edu](mailto:jbr107@miami.edu)
+* Ryland Lewis (Marine Technical Specialist), [jrl303@miami.edu](mailto:jrl303@miami.edu)
 * Cedric Guigand (Senior Research Associate), [cguigand@rsmas.miami.edu](mailto:cguigand@rsmas.miami.edu)
 * Milan Curcic (Assistant Scientist), [mcurcic@miami.edu](mailto:mcurcic@miami.edu)
 * Sanchit Mehta (Postdoctoral Associate), [sanchit.mehta@rsmas.miami.edu](mailto:sanchit.mehta@rsmas.miami.edu)
 * Hanjing Dai (PhD Student), [hdai@rsmas.miami.edu](mailto:hdai@rsmas.miami.edu)
-* Andrew Smith (PhD Student), [andrew.smith@rsmas.miami.edu](mailto:andrew.smith@rsmas.miami.edu)
+* Peisen Tan (PhD Student), [peisen.tan@rsmas.miami.edu](mailto:peisen.tan@rsmas.miami.edu)
